@@ -1,0 +1,16 @@
+<!doctype html>
+<head>
+<title>Australia</title>
+</head>
+<body>
+<h1><a href="index.html">Australia</a></h1>
+<ol>
+  <li><a href="1.Australia">Sydney</a></li>
+  <li><a href="2.Australia">Melbourne</a></li>
+  <li><a href="3.Australia">Cairns</a></li>
+</ol>
+<h2>Melbourne</h2>
+<p>Melbourn is a large village in the far south west of Cambridgeshire, England. It is located next to the A10 just north of Royston. Melbourn has over 4,400 inhabitants. Melbourn is located in the South Cambridgeshire District, but is served by the Royston, Hertfordshire post town.The Prime Meridian passes to the west of Melbourn.
+</p>
+</body>
+</html>

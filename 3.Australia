@@ -1,0 +1,17 @@
+<!doctype html>
+<head>
+<title>Australia</title>
+</head>
+<body>
+<h1><a href="index.html">Australia</a></h1>
+<ol>
+  <li><a href="1.Australia">Sydney</a></li>
+  <li><a href="2.Australia">Melbourne</a></li>
+  <li><a href="3.Australia">Cairns</a></li>
+</ol>
+<h2>Cairns</h2>
+<p>the Cairns area was inhabited by the Gimuy Walubara Yidinji people,[8] who still claim their Native Title rights.[9] The area is known in the local Yidiny language as Gimuy.[8]
+In 1770, James Cook mapped the future site of Cairns, naming it Trinity Bay. Closer investigation by several official expeditions 100 years later established its potential for development into a port.
+</p>
+</body>
+</html>

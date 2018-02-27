@@ -1,0 +1,16 @@
+<!doctype html>
+<head>
+<title>Australia</title>
+</head>
+<body>
+<h1><a href="index.html">Australia</a></h1>
+<ol>
+  <li><a href="1.Australia">Sydney</a></li>
+  <li><a href="2.Australia">Melbourne</a></li>
+  <li><a href="3.Australia">Cairns</a></li>
+</ol>
+<h2>Sydney</h2>
+<p>Sydney (/ˈsɪdni/ (About this sound listen))[7] is the state capital of New South Wales and the most populous city in Australia and Oceania.[8] Located on Australia's east coast, the metropolis surrounds the world's largest natural harbour and sprawls about 70 km (43.5 mi) on its periphery towards the Blue Mountains to the west, Hawkesbury to the north and Macarthur to the south.
+</p>
+</body>
+</html>
